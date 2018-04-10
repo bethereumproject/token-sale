@@ -1,4 +1,3 @@
-
 BTHR Bethereum Token Sale Contracts
 ===================================
 
